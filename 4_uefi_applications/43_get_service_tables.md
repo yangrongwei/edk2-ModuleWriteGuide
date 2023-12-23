@@ -37,9 +37,7 @@ UEFI System Table.
 Refer to _UEFI Specification_ for definitions and detailed descriptions of UEFI
 Boot Services, UEFI Runtime Services, and UEFI System Table.
 
-EDK II provides UefiBootServicesTableLib, UefiBootServicesTableLib and
-
-UefiRuntimeServicesTableLib to facilitate developer in accessing those
+EDK II provides UefiBootServicesTableLib and UefiRuntimeServicesTableLib to facilitate developer in accessing those
 services. The following table lists the global symbol provided by those
 libraries.
 ###### Table 8 Global Symbol can be used by UEFI Application
